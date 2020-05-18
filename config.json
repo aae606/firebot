@@ -1,0 +1,7 @@
+{
+    "lineMessagingApi": "https://api.line.me/v2/bot/message",
+    "lineHeaders": {
+        "Content-Type": "application/json",
+        "Authorization": "2fcsvbJBG6Bfwkz41BcvinUwq8WwO2DtOXM3FPbiGNWyJ8sRSs7JA1fXOPl7YS0LnSem6sz4D+UxGaFh9eqw6mvzEFNLuIEUBUOzytPCfTtjjGUr7op67YexAdMZTFgsBceEZ/AyKHA/Jj67sB8Q1wdB04t89/1O/w1cDnyilFU="
+    }
+}
